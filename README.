@@ -1,4 +1,4 @@
-- legacy2.7z
+* iasl-legacy2.7z
     iasl20051117.exe
     iasl20100121.exe
     iasl20100806.exe
@@ -10,4 +10,8 @@
     iasl20210331.exe
     iasl20210930.exe
     iasl20230628.exe
-    iasl2026.exe
+
+iasl-legacy-linux.zip
+iasl-legacy-windows.zip
+iasl-win-20141107.zip
+iasl-win-20241212.zip
